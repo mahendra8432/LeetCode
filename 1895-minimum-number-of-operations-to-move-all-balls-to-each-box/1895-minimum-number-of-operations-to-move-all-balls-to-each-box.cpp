@@ -1,7 +1,8 @@
 class Solution {
 public:
     vector<int> minOperations(string boxes) {
-         vector<int>v1;
+        vector<int>v1;
+          vector<int>v2;
           //boxes ke andar jo jo 1 hai unke index v1 me bharo.
         for(int i=0;i<boxes.length();i++){
             if(boxes[i]=='1') v1.push_back(i);
@@ -14,10 +15,8 @@ public:
                 for(int j=0;j< sizeofones;j++){
                     p +=abs(v1[j]-i);
                 }
-                v1.push_back(p);
+                v2.push_back(p);
         } 
-        // Remove the first N elements, and shift everything else down by N indices
-        v1.erase(v1.begin(), v1.begin() + sizeofones);
-        return v1;
+        return v2;
     }
 };
