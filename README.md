@@ -34,4 +34,8 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/mahendra8432/LeetCode/tree/master/1524-string-matching-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/mahendra8432/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
