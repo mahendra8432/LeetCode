@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mahendra8432/LeetCode/tree/master/0020-valid-parentheses) |
 | [0952-word-subsets](https://github.com/mahendra8432/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/mahendra8432/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/mahendra8432/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/mahendra8432/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mahendra8432/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
