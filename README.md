@@ -15,6 +15,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mahendra8432/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/mahendra8432/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mahendra8432/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mahendra8432/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/mahendra8432/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mahendra8432/LeetCode/tree/master/0009-palindrome-number) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mahendra8432/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Trie
 |  |
 | ------- |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/mahendra8432/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mahendra8432/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 <!---LeetCode Topics End-->
