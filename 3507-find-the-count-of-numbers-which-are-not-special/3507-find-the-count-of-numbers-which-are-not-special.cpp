@@ -1,5 +1,6 @@
 class Solution {
 public: 
+// [l,r] ki range me aise numbers dundo jo prime numbers ke squares hai.
     bool isprime(int n){
             if(n<=1) return false;
             for(int i=2;i<=sqrt(n);i++){
