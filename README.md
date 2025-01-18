@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/mahendra8432/LeetCode/tree/master/0189-rotate-array) |
 | [0952-word-subsets](https://github.com/mahendra8432/LeetCode/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mahendra8432/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/mahendra8432/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/mahendra8432/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mahendra8432/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/mahendra8432/LeetCode/tree/master/0189-rotate-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mahendra8432/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Trie
 |  |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mahendra8432/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/mahendra8432/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
