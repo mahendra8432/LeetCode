@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahendra8432/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mahendra8432/LeetCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/mahendra8432/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mahendra8432/LeetCode/tree/master/0283-move-zeroes) |
 | [0952-word-subsets](https://github.com/mahendra8432/LeetCode/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mahendra8432/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -34,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/mahendra8432/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/mahendra8432/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mahendra8432/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -59,6 +61,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mahendra8432/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/mahendra8432/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mahendra8432/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -76,6 +79,7 @@
 | [0007-reverse-integer](https://github.com/mahendra8432/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mahendra8432/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/mahendra8432/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mahendra8432/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Trie
 |  |
@@ -144,4 +148,12 @@
 | [0027-remove-element](https://github.com/mahendra8432/LeetCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/mahendra8432/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mahendra8432/LeetCode/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
