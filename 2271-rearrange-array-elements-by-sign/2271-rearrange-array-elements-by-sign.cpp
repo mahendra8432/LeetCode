@@ -8,15 +8,9 @@ public:
                 p.push_back(nums[i]);
             else neg.push_back(nums[i]);
         }
-        int j = 0, k = 0;
-        for (int i = 0; i < n; i++) {
-            if (i % 2 == 0) {
-                nums[i] = p[j];
-                j++;
-            } else {
-                nums[i] = neg[k];
-                k++;
-            }
+        for (int i = 0; i < n/2; i++) {
+            nums[2*i]=p[i];
+            nums[2*i+1]=neg[i];
         }
         return nums;
     }
