@@ -11,6 +11,7 @@
 | [0073-set-matrix-zeroes](https://github.com/mahendra8432/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mahendra8432/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahendra8432/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/mahendra8432/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mahendra8432/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mahendra8432/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mahendra8432/LeetCode/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mahendra8432/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mahendra8432/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/mahendra8432/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mahendra8432/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/mahendra8432/LeetCode/tree/master/0952-word-subsets) |
@@ -220,6 +222,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mahendra8432/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/mahendra8432/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Topological Sort
 |  |
