@@ -8,7 +8,7 @@ public:
         for(int i=0;i<n;i++){
             pq.push(nums[i]);
         }
-        while(pq.size()+1!=0){
+        while(pq.size()!=0){
            // if(pq.size()==n)
                      c=pq.top();
                     pq.pop();
