@@ -37,6 +37,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/mahendra8432/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mahendra8432/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/mahendra8432/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mahendra8432/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mahendra8432/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mahendra8432/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Prefix Sum
@@ -199,6 +200,7 @@
 | [0075-sort-colors](https://github.com/mahendra8432/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mahendra8432/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mahendra8432/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mahendra8432/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/mahendra8432/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mahendra8432/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
