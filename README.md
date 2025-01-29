@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/mahendra8432/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahendra8432/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mahendra8432/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/mahendra8432/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/mahendra8432/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mahendra8432/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mahendra8432/LeetCode/tree/master/0075-sort-colors) |
@@ -195,6 +196,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahendra8432/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mahendra8432/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/mahendra8432/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mahendra8432/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mahendra8432/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mahendra8432/LeetCode/tree/master/0283-move-zeroes) |
