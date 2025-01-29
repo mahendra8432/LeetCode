@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahendra8432/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mahendra8432/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mahendra8432/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/mahendra8432/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mahendra8432/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mahendra8432/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mahendra8432/LeetCode/tree/master/0075-sort-colors) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/mahendra8432/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mahendra8432/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/mahendra8432/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mahendra8432/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mahendra8432/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -178,6 +180,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mahendra8432/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mahendra8432/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/mahendra8432/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/mahendra8432/LeetCode/tree/master/0542-01-matrix) |
