@@ -9,12 +9,9 @@ public:
                 }
             else i++;
         }
-        if(j==n){
-            while(n--) nums1.pop_back();
-        }
-        else{
-            int p=n;
-             while(n--) nums1.pop_back();
+         int p=n;
+        while(n--) nums1.pop_back();
+        if(j!=p){       
              while(j<p){
             nums1.push_back(nums2[j]);j++;
              }
