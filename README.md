@@ -28,6 +28,7 @@
 | [0485-max-consecutive-ones](https://github.com/mahendra8432/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/mahendra8432/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mahendra8432/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/mahendra8432/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/mahendra8432/LeetCode/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/mahendra8432/LeetCode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/mahendra8432/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/mahendra8432/LeetCode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
