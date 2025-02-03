@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahendra8432/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mahendra8432/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mahendra8432/LeetCode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mahendra8432/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mahendra8432/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mahendra8432/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mahendra8432/LeetCode/tree/master/0053-maximum-subarray) |
@@ -228,6 +229,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mahendra8432/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mahendra8432/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/mahendra8432/LeetCode/tree/master/0792-binary-search) |
