@@ -29,6 +29,7 @@
 | [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mahendra8432/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/mahendra8432/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0414-third-maximum-number](https://github.com/mahendra8432/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mahendra8432/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/mahendra8432/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mahendra8432/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -250,6 +251,7 @@
 | [0169-majority-element](https://github.com/mahendra8432/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mahendra8432/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/mahendra8432/LeetCode/tree/master/0414-third-maximum-number) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mahendra8432/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
 |  |
