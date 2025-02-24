@@ -55,6 +55,6 @@ private:
 public:
     TreeNode* constructFromPrePost(vector<int>& preorder, vector<int>& postorder) {
         
-        return solve(preorder,postorder,0,preorder.size());
+        return solve(preorder,postorder,0,preorder.size()-1);
     }
 };
