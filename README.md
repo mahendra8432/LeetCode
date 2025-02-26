@@ -128,6 +128,7 @@
 | [1651-shuffle-string](https://github.com/mahendra8432/LeetCode/tree/master/1651-shuffle-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mahendra8432/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mahendra8432/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2032-largest-odd-number-in-string](https://github.com/mahendra8432/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mahendra8432/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/mahendra8432/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mahendra8432/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -165,6 +166,7 @@
 | [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mahendra8432/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mahendra8432/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/mahendra8432/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/mahendra8432/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mahendra8432/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mahendra8432/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/mahendra8432/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/mahendra8432/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mahendra8432/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mahendra8432/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/mahendra8432/LeetCode/tree/master/2509-minimize-xor) |
