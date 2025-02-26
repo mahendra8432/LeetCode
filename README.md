@@ -117,6 +117,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahendra8432/LeetCode/tree/master/0020-valid-parentheses) |
 | [0952-word-subsets](https://github.com/mahendra8432/LeetCode/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/mahendra8432/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mahendra8432/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/mahendra8432/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/mahendra8432/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -201,6 +202,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahendra8432/LeetCode/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/mahendra8432/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mahendra8432/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mahendra8432/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/mahendra8432/LeetCode/tree/master/3447-clear-digits) |
