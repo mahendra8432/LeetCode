@@ -11,8 +11,7 @@ public:
         }
         string p=strs[minidx];
         for(int i=0;i<n;i++){
-            while( strs[i].find(p)!=0 ){// p is not substring of strs[i]
-            //  OR   p is not substring of strs[i]
+            while( strs[i].find(p)!=0 ){// p is not prefix-substring of strs[i]
                 p.pop_back();
             }
         }
