@@ -188,6 +188,7 @@
 | [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mahendra8432/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mahendra8432/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mahendra8432/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/mahendra8432/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/mahendra8432/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mahendra8432/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
