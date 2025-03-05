@@ -191,6 +191,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mahendra8432/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/mahendra8432/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/mahendra8432/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/mahendra8432/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mahendra8432/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mahendra8432/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Trie
