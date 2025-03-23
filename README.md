@@ -35,6 +35,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/mahendra8432/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/mahendra8432/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mahendra8432/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/mahendra8432/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/mahendra8432/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/mahendra8432/LeetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mahendra8432/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mahendra8432/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/mahendra8432/LeetCode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mahendra8432/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mahendra8432/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mahendra8432/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
