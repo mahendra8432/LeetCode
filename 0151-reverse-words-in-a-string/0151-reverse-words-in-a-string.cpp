@@ -2,19 +2,14 @@ class Solution {
 public:
     string reverseWords(string s) {
         int n=s.length();
-        string ans="",temp="";
+        string temp="",ans="";
         for(int i=n-1;i>=0;i--){
-            while(i>=0 && s[i]!=' '){
-                 temp+=s[i];
-                 i--;
-            }
-            if(temp.length()>=1){
-                if(ans.length()!=0) ans+=" ";
-                reverse(temp.begin(),temp.end());
-                ans+=temp;
-                }
+            while(i>=0 && s[i]==' ') i--;
+            while(i>=0 && s[i]!=' ') {temp+=s[i]; i--;}
+            reverse(temp.begin(),temp.end());
+            if(temp.length()!=0) ans+= " " + temp;
             temp="";
         }
-        return ans;
+        return ans.substr(1,ans.length()-1);
     }
 };
