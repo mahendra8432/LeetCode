@@ -123,6 +123,7 @@
 | [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/mahendra8432/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/mahendra8432/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/mahendra8432/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mahendra8432/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mahendra8432/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/mahendra8432/LeetCode/tree/master/0952-word-subsets) |
@@ -157,6 +158,7 @@
 | [0205-isomorphic-strings](https://github.com/mahendra8432/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mahendra8432/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/mahendra8432/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0768-partition-labels](https://github.com/mahendra8432/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/mahendra8432/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/mahendra8432/LeetCode/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/mahendra8432/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -242,6 +244,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/mahendra8432/LeetCode/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/mahendra8432/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/mahendra8432/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mahendra8432/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -357,6 +360,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/mahendra8432/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mahendra8432/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mahendra8432/LeetCode/tree/master/0283-move-zeroes) |
+| [0768-partition-labels](https://github.com/mahendra8432/LeetCode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mahendra8432/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mahendra8432/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/mahendra8432/LeetCode/tree/master/2551-apply-operations-to-an-array) |
