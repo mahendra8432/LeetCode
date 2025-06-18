@@ -3,13 +3,17 @@ public:
     int removeDuplicates(vector<int>& nums) {
         int n=nums.size();
         int i=0;
-        for(int j=1;j<n;j++){
-            if(nums[j]!=nums[i]){
-                nums[i+1]=nums[j];
-                i++;
-            }
+        unordered_map<int,int>map;
+        for(int j=0;j<n;j++){
+            map[nums[j]]++;
         }
-        return i+1;
+        for(auto p:map){
+            nums[i]=p.first;
+            i++;
+        }
+        i--;
+        sort(nums.begin(),nums.begin()+i+1);
+        return map.size();
         
     }
 };
