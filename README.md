@@ -218,6 +218,7 @@
 | [0009-palindrome-number](https://github.com/mahendra8432/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mahendra8432/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/mahendra8432/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/mahendra8432/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mahendra8432/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mahendra8432/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -415,6 +416,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mahendra8432/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/mahendra8432/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mahendra8432/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahendra8432/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mahendra8432/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -522,4 +524,8 @@
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/mahendra8432/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mahendra8432/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
