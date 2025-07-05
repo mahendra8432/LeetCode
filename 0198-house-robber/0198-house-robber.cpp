@@ -1,18 +1,16 @@
 class Solution {
 public:
-// Method 2:- Tabulation
+    // Method 3:- Space Optimization S.C=0(1)
     int rob(vector<int>& nums) {
         int n=nums.size();
-        int pick,notpick;
-        vector<int>dp(n,0);
-        if(n==0) return nums[0];
-        dp[0]=nums[0];
+        int prev2=0,prev=nums[0],curri=nums[0],pick,notpick;
         for(int i=1;i<n;i++){
-            if(i>1)pick=dp[i-2] + nums[i];
-            else pick=nums[i];
-            notpick=dp[i-1];
-            dp[i]=max(pick,notpick);
+            pick= prev2 + nums[i];
+            notpick= prev;
+            curri=max(pick,notpick);
+            prev2=prev;
+            prev=curri; 
         }
-        return dp[n-1];
+        return prev;
     }
 };
