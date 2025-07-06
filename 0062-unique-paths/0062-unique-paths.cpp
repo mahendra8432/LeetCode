@@ -1,21 +1,32 @@
 class Solution {
 public:
-    // Method 2:-Tabulation
+    // Method 3:-Space Optimization
     int uniquePaths(int m, int n) {
         if (m == 1 || n == 1) return 1;
-        vector<vector<int>>dp(m,vector<int>(n,-1));
-        int left,up;
+        vector<int>temp1(n,1),temp2(n,-1);
+        int prevleft=1,curri;
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if(i==0 || j==0) dp[i][j]=1;
+                if(i==0) {
+                    curri=prevleft;
+                    prevleft=curri;
+                    temp2[j]=curri;
+                }
+                else if(j==0) {
+                    curri=temp1[j];
+                    prevleft=curri;
+                    temp2[j]=curri;
+                }
                 else{
-                    left=dp[i][j-1];
-                    up=dp[i-1][j];
-                    dp[i][j]=left+up;
+                    curri=prevleft + temp1[j];
+                    prevleft=curri;
+                    temp2[j]=curri;
                 }
             }
+            temp1=temp2;
         }
-        return dp[m-1][n-1];
+        return prevleft;
     }
 };
 // value of each box is addition of value of box which is at left and at up.
+// 2 array lenge temp1  upar wale row ki sari vaues stoe karega. temp2 current row ki sari values store karega jo agale row me kaam ayengi.
