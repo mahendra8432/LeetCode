@@ -1,32 +1,20 @@
 class Solution {
 public:
-// method 2:- Space optiization
+// Methosd 1:- Memorization
+    int fun(int i,int j,vector<vector<int>>& triangle,vector<vector<int>>& dp){
+        int down,downright;
+        if(i==triangle.size()-1) return triangle[i][j];
+        if(dp[i][j]!=-1) return dp[i][j];
+        down=fun(i+1,j,triangle,dp);
+        downright=fun(i+1,j+1,triangle,dp);
+        return dp[i][j] = triangle[i][j] + min(down,downright);
+    }
     int minimumTotal(vector<vector<int>>& triangle) {
         int m=triangle.size(), n=triangle[m-1].size();
-        vector<int>tempc(n,-1),tempu(n,-1);
-        if(m==1 && n==1) return triangle[0][0];
-        int up,upleft;
-        int mini=INT_MAX,curri;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<=i;j++){
-                up=INT_MAX,upleft=INT_MAX;
-                if(i>0 && i!=j) up=tempu[j];
-                if(j>0 && i>0) upleft=tempu[j-1];
-                if(i==0 && j==0){
-                  curri=triangle[0][0];
-                  tempc[j]=curri;
-                }
-                else {
-                    curri=triangle[i][j] + min(up,upleft);
-                    tempc[j]=curri;
-                }
-                if(i==m-1) mini=min(mini,curri);
-            }
-            tempu=tempc;
-        }
-        return mini;
+        vector<vector<int>>dp(m,vector<int>(n,-1));
+        return fun(0,0,triangle,dp);
     }
 };
-// the value of any box in dp is min (of box which is up and upleft) + tringle[i][j];
-// if i==j then value of any box in dp is box which is upleft + tringle[i][j];
-// if j==0  then value of any box in dp is box which is up + tringle[i][j];
+// here start point is fixed but no end point so 0--->1
+// remember ab apan start se end tak ja rahe hai.
+// only one base case is when we reach at last row so just return that element.
