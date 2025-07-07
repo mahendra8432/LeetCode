@@ -1,22 +1,28 @@
 class Solution {
 public:
-// method 2:- Tabulation
+// method 2:- Space optiization
     int minimumTotal(vector<vector<int>>& triangle) {
         int m=triangle.size(), n=triangle[m-1].size();
-        vector<vector<int>>dp(m,vector<int>(n,-1));
+        vector<int>tempc(n,-1),tempu(n,-1);
         if(m==1 && n==1) return triangle[0][0];
         int up,upleft;
-        int mini=INT_MAX;
-        dp[0][0]=triangle[0][0];
+        int mini=INT_MAX,curri;
         for(int i=0;i<m;i++){
             for(int j=0;j<=i;j++){
                 up=INT_MAX,upleft=INT_MAX;
-                if(i==0 && j==0) continue;
-                if(i>0 && i!=j) up=dp[i-1][j];
-                if(j>0 && i>0) upleft=dp[i-1][j-1];
-                dp[i][j]=triangle[i][j] + min(up,upleft);
-                if(i==m-1) mini=min(mini,dp[m-1][j]);
+                if(i>0 && i!=j) up=tempu[j];
+                if(j>0 && i>0) upleft=tempu[j-1];
+                if(i==0 && j==0){
+                  curri=triangle[0][0];
+                  tempc[j]=curri;
+                }
+                else {
+                    curri=triangle[i][j] + min(up,upleft);
+                    tempc[j]=curri;
+                }
+                if(i==m-1) mini=min(mini,curri);
             }
+            tempu=tempc;
         }
         return mini;
     }
