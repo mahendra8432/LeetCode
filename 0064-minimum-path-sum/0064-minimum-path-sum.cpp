@@ -1,17 +1,21 @@
 class Solution {
 public:
-    int  fun(int i,int j,vector<vector<int>>&dp,vector<vector<int>>&grid){
-        int left,right;
-        if(i<0 || j<0) return INT_MAX;
-        if(i==0 && j==0) return grid[0][0];
-        if(dp[i][j]!=-1) return dp[i][j];
-        left  = fun(i-1,j,dp,grid);
-        right = fun(i,j-1,dp,grid); 
-        return  dp[i][j]= grid[i][j] + min(left,right);
-    }
+// Method 2:- Tabulation
     int minPathSum(vector<vector<int>>& grid) {
+        int  left, right=0;
         int m=grid.size(),n=grid[0].size();
         vector<vector<int>>dp(m,vector<int>(n,-1));
-        return fun(m-1,n-1,dp,grid);
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                left=INT_MAX,right=INT_MAX;
+                if(i>0) left=dp[i-1][j];
+                if(j>0) right=dp[i][j-1];
+                if(i==0 && j==0) dp[0][0]=grid[0][0];
+                else dp[i][j]=grid[i][j] + min(left,right);
+            }
+        }
+        return dp[m-1][n-1];
     }
 };
+// same as unique path nut insted of returning 1 in base case return value of grid array
+// so it will give you some
