@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/mahendra8432/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/mahendra8432/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/mahendra8432/LeetCode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/mahendra8432/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/mahendra8432/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mahendra8432/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/mahendra8432/LeetCode/tree/master/0542-01-matrix) |
@@ -436,6 +437,7 @@
 | [0152-maximum-product-subarray](https://github.com/mahendra8432/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mahendra8432/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mahendra8432/LeetCode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/mahendra8432/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/mahendra8432/LeetCode/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mahendra8432/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/mahendra8432/LeetCode/tree/master/0967-minimum-falling-path-sum) |
