@@ -66,6 +66,7 @@
 | [2107-find-unique-binary-string](https://github.com/mahendra8432/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/mahendra8432/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mahendra8432/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mahendra8432/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mahendra8432/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mahendra8432/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mahendra8432/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -204,6 +205,7 @@
 | [0136-single-number](https://github.com/mahendra8432/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mahendra8432/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mahendra8432/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mahendra8432/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/mahendra8432/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/mahendra8432/LeetCode/tree/master/2509-minimize-xor) |
@@ -378,6 +380,7 @@
 | [0189-rotate-array](https://github.com/mahendra8432/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mahendra8432/LeetCode/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/mahendra8432/LeetCode/tree/master/0768-partition-labels) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mahendra8432/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mahendra8432/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mahendra8432/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/mahendra8432/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -393,6 +396,7 @@
 | [0268-missing-number](https://github.com/mahendra8432/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mahendra8432/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/mahendra8432/LeetCode/tree/master/0792-binary-search) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mahendra8432/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mahendra8432/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/mahendra8432/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/mahendra8432/LeetCode/tree/master/2690-house-robber-iv) |
@@ -445,6 +449,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mahendra8432/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mahendra8432/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mahendra8432/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mahendra8432/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -497,6 +502,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mahendra8432/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2434-design-a-number-container-system](https://github.com/mahendra8432/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
@@ -551,4 +557,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mahendra8432/LeetCode/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mahendra8432/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
