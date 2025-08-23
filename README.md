@@ -196,6 +196,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mahendra8432/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/mahendra8432/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mahendra8432/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3033-apply-operations-to-make-two-strings-equal](https://github.com/mahendra8432/LeetCode/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mahendra8432/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/mahendra8432/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/mahendra8432/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -452,6 +453,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mahendra8432/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mahendra8432/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/mahendra8432/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3033-apply-operations-to-make-two-strings-equal](https://github.com/mahendra8432/LeetCode/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 ## Simulation
 |  |
 | ------- |
