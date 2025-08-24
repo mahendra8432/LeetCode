@@ -241,6 +241,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/mahendra8432/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/mahendra8432/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mahendra8432/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/mahendra8432/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mahendra8432/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/mahendra8432/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mahendra8432/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -291,6 +292,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mahendra8432/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mahendra8432/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mahendra8432/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/mahendra8432/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mahendra8432/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/mahendra8432/LeetCode/tree/master/3447-clear-digits) |
 ## Brainteaser
@@ -570,4 +572,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/mahendra8432/LeetCode/tree/master/1013-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/mahendra8432/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
