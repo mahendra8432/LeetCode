@@ -1,5 +1,6 @@
 class Solution {
 public:
+// Method 1:-
     vector<int> plusOne(vector<int>& digits) {
         int n=digits.size();
         int i=n-1;
