@@ -1,18 +1,19 @@
 class Solution {
 public:
-// Method 1:-
+//Method 2:- String
     vector<int> plusOne(vector<int>& digits) {
-        int n=digits.size();
-        int i=n-1;
-        while(i>=0 && digits[i]==9){
-            digits[i]=0;
-            i--;
+        string str = "";
+        for(int d : digits) str += to_string(d);
+        int n = str.size();
+        for(int i = n - 1; i >= 0; i--) {
+            if(str[i] < '9') {
+                str[i]++;
+                break;
+            } else str[i] = '0';
         }
-        if(i!=-1) digits[i]++;
-        else{ 
-            digits.assign(digits.size(),0);
-            digits.insert(digits.begin(),1);
-            }
-        return digits;
+        if(str[0] == '0') str = "1" + str;
+        vector<int> result;
+        for(char c : str) result.push_back(c - '0');
+        return result;
     }
 };
