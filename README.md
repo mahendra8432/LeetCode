@@ -241,6 +241,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mahendra8432/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/mahendra8432/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mahendra8432/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/mahendra8432/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/mahendra8432/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/mahendra8432/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mahendra8432/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -426,6 +427,7 @@
 | [0414-third-maximum-number](https://github.com/mahendra8432/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/mahendra8432/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mahendra8432/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/mahendra8432/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mahendra8432/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/mahendra8432/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mahendra8432/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
