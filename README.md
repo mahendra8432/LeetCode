@@ -104,6 +104,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mahendra8432/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mahendra8432/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mahendra8432/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mahendra8432/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3643-zero-array-transformation-ii](https://github.com/mahendra8432/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
@@ -249,6 +250,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/mahendra8432/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/mahendra8432/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mahendra8432/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mahendra8432/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Trie
 |  |
 | ------- |
