@@ -199,6 +199,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mahendra8432/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/mahendra8432/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mahendra8432/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2887-sort-vowels-in-a-string](https://github.com/mahendra8432/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/mahendra8432/LeetCode/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mahendra8432/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/mahendra8432/LeetCode/tree/master/3447-clear-digits) |
@@ -435,6 +436,7 @@
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mahendra8432/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mahendra8432/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/mahendra8432/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2887-sort-vowels-in-a-string](https://github.com/mahendra8432/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mahendra8432/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mahendra8432/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mahendra8432/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
